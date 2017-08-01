@@ -1,3 +1,5 @@
+/* Real Ramos */
+
 // box auto-height
   	$(window).resize(function(){
 		initArticleBox();
